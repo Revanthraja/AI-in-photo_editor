@@ -1,5 +1,13 @@
 # AI-in-photo_editor
+
 Removing the unwanted noise and styleing the images
+
+![removing the blur](https://user-images.githubusercontent.com/108793964/215293714-3009f47a-d813-45a6-bd67-73e658869c4c.png)
+
+
+
+
+
 
 Styleing the images
 
